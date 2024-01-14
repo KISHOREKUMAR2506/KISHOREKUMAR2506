@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm KISHORE KUMAR I</h1>
 <h3 align="center">A Zealous Electronics and Communication Engineer from India</h3> 
 
-
+<img src = "https://c.tenor.com/H00Gs6nvqQgAAAAC/tenor.gif"/>
 - 🔭 I’m currently working on **versatile things**
 
 - 🌱 I’m currently learning **React and OpenCV**
@@ -12,7 +12,6 @@
 
 - ⚡ Fun fact **Everything you’re experiencing right now actually happened 80 milliseconds ago.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
