@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm KISHORE KUMAR I</h1>
 <h3 align="center">A Zealous Electronics and Communication Engineer from India</h3>
-<src img = "https://media.giphy.com/media/cJSDRt8csBx0A7YFfh/giphy.gif">
+<img src = "https://media.giphy.com/media/cJSDRt8csBx0A7YFfh/giphy.gif">
 - 🔭 I’m currently working on **versatile things**
 
 - 🌱 I’m currently learning **React and OpenCV**
