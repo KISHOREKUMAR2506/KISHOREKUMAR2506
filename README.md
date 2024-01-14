@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm KISHORE KUMAR I</h1>
-<h3 align="center">A Zealous Electronics and Communication Engineer from India</h3> 
+<h3 align="center">A Zealous Electronics and Communication Engineer from India</h3>
 
-<img src = "https://c.tenor.com/H00Gs6nvqQgAAAAC/tenor.gif"/>
 - 🔭 I’m currently working on **versatile things**
 
 - 🌱 I’m currently learning **React and OpenCV**
@@ -12,7 +11,10 @@
 
 - ⚡ Fun fact **Everything you’re experiencing right now actually happened 80 milliseconds ago.**
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kishore-kumar-i-6a2298260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kishore-kumar-i-6a2298260/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/kishore_2506/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kishore_2506/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
