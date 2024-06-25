@@ -3,7 +3,7 @@
 <img src = "https://media.giphy.com/media/cJSDRt8csBx0A7YFfh/giphy.gif">
 - 🔭 I’m currently working on **versatile things**
 
-- 🌱 I’m currently learning **React and OpenCV**
+- 🌱 I’m currently learning **Telecom and Open Source networking**
 
 - 👯 I’m looking to collaborate on **all my on-going projects**
 
